@@ -38,7 +38,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/besafe-logo.png
 
 
 #####################################
@@ -49,7 +49,6 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "info@besafe-project.eu"
   github: besafe-unita
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -133,10 +132,10 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#1a3a5c"
-navbar-text-col: "#ffffff"
-navbar-border-col: "#0f2540"
-footer-col: "#1a3a5c"
+navbar-col: "#ffffff"
+navbar-text-col: "#0D2540"
+navbar-border-col: "#0D2540"
+footer-col: "#0D2540"
 footer-text-col: "#cccccc"
 footer-link-col: "#7ec8e3"
 footer-hover-col: "#ffffff"

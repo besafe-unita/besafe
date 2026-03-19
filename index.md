@@ -14,7 +14,7 @@ The project brings together four universities and their municipal partners to de
 
 ## Partners
 
-<div style="background:#1a3a5c; border-radius:6px; padding:2rem 1.5rem; margin-top:1rem;">
+<div style="background:#0D2540; border-radius:6px; padding:2rem 1.5rem; margin-top:1rem;">
 
   <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:2.5rem; margin-bottom:1.5rem;">
 
@@ -40,11 +40,5 @@ The project brings together four universities and their municipal partners to de
 
   </div>
 
-  <hr style="border-color:#2e5578; margin:1rem 0;">
-
-  <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:2.5rem;">
-    <img src="{{ '/assets/img/partners/unita.png' | relative_url }}" alt="UNITA European University" style="height:50px; object-fit:contain;">
-    <img src="{{ '/assets/img/partners/eu-cofunded.png' | relative_url }}" alt="Co-funded by the European Union" style="height:50px; object-fit:contain;">
-  </div>
-
 </div>
+
