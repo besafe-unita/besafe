@@ -20,6 +20,7 @@ author: BE-SAFE Consortium
 ###############################################
 
 navbar-links:
+  Home: "/"
   Activities: "activities"
   # Deliverables: "deliverables"
   Work Plan: "workplan"
