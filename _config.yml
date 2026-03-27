@@ -21,7 +21,7 @@ author: BE-SAFE Consortium
 
 navbar-links:
   Activities: "activities"
-  Deliverables: "deliverables"
+  # Deliverables: "deliverables"
   Work Plan: "workplan"
   News: "news"
 
@@ -289,6 +289,7 @@ exclude:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-target-blank
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
