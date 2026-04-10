@@ -32,6 +32,7 @@ The following organisations have already provided a formal letter of support for
 | [![AIIT](/assets/res/endors/aiit.jpeg){: width="120"}](https://www.aiit.it/)<br>**[Associazione Italiana per l'Ingegneria del Traffico e dei Trasporti (AIIT)](https://www.aiit.it/)** | [📄 View letter](/assets/res/endors/AIIT_support_letterBE-SAFE.pdf) |
 | [![Cluster SCC Lombardia](/assets/res/endors/clusterSCC.png){: width="120"}](https://clusterscclombardia.it)<br>**[Cluster Smart Cities & Communities Lombardia](https://clusterscclombardia.it)** | [📄 View letter](/assets/res/endors/cluster_SCC_support_letterBE-SAFE.pdf) |
 | [![GROC](/assets/res/endors/Groc.png){: width="120"}](https://www.safetyroadforlife.org)<br>**[Gruppo Community Rotary (GROC) – Safety Road for Life](https://www.safetyroadforlife.org)** | [📄 View letter](/assets/res/endors/groc_support_letterBE-SAFE.pdf) |
+| [![ACS Kronstadt Cycling](/assets/res/endors/ACSKronstadtCycling.png){: width="120"}](https://www.kronstadtcycling.ro/)<br>**[ACS Kronstadt Cycling](https://www.kronstadtcycling.ro/)** | [📄 View letter](/assets/res/endors/ACSKronstadtCycling_support_letterBE-SAFE.pdf) |
 
 ---
 
