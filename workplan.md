@@ -34,6 +34,7 @@ The following organisations have already provided a formal letter of support for
 | [![GROC](/assets/res/endors/Groc.png){: width="120"}](https://www.safetyroadforlife.org)<br>**[Gruppo Community Rotary (GROC) – Safety Road for Life](https://www.safetyroadforlife.org)** | [📄 View letter](/assets/res/endors/groc_support_letterBE-SAFE.pdf) |
 | [![ACS Kronstadt Cycling](/assets/res/endors/ACSKronstadtCycling.png){: width="120"}](https://www.kronstadtcycling.ro/)<br>**[ACS Kronstadt Cycling](https://www.kronstadtcycling.ro/)** | [📄 View letter](/assets/res/endors/ACSKronstadtCycling_support_letterBE-SAFE.pdf) |
 | [![Covilhã City Council](/assets/res/endors/CovilhaCityCouncil.png){: width="120"}](https://www.cm-covilha.pt)<br>**[Covilhã City Council](https://www.cm-covilha.pt)** | [📄 View letter](/assets/res/endors/CovilhaCityCouncil_support_letterBE-SAFE.pdf) |
+| [![ESRI Portugal](/assets/res/endors/esri.png){: width="120"}](https://www.esri-portugal.pt)<br>**[ESRI Portugal](https://www.esri-portugal.pt)** | [📄 View letter](/assets/res/endors/ESRI_support_letter_BE-SAFE.pdf) |
 
 ---
 
