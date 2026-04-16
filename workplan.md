@@ -25,7 +25,7 @@ Two new academic partners have been confirmed to join the consortium:
 
 ## Stakeholder Endorsements
 
-Several organisations have already provided a formal letter of support. See the full list on the **[Supporters](supporters)** page.
+Several organisations have already provided a formal letter of support. See the full list on the **[Supporters]({{ site.baseurl }}/supporters)** page.
 
 We are currently collecting additional letters of support and expressions of interest from public and industry actors. Active contacts include:
 
