@@ -6,15 +6,15 @@ subtitle: Next steps, funding calls and consortium expansion
 
 ## UNITA Advanced Grant — BE-SAFE Next
 
-The BE-SAFE consortium is actively preparing a proposal for the **[UNITA Call for Advanced Grants on Research](https://univ-unita.eu/unita-call-for-advanced-grants-on-research/)**, with submission deadline **17 April 2026**.
+On **17 April 2026**, the BE-SAFE consortium officially submitted its proposal to the **[UNITA Call for Advanced Grants on Research](https://univ-unita.eu/unita-call-for-advanced-grants-on-research/)**.
 
-The Advanced Grant application — internally referred to as **BE-SAFE Next** — aims to scale the project framework to new partner institutions and municipalities within the UNITA Alliance, building on the results of the first project cycle.
+The proposal — internally referred to as **BE-SAFE Next** — aims to scale the project framework to new partner institutions and municipalities within the UNITA Alliance, building on the results of the first project cycle.
 
 ---
 
 ## Consortium Expansion
 
-Two new academic partners have been confirmed to join the consortium:
+Both new academic partners have formally joined the consortium and their participation is included in the submitted proposal:
 
 | Institution | Country | Field |
 |-------------|---------|-------|
@@ -25,22 +25,6 @@ Two new academic partners have been confirmed to join the consortium:
 
 ## Stakeholder Endorsements
 
-Several organisations have already provided a formal letter of support. See the full list on the **[Supporters]({{ site.baseurl }}/supporters)** page.
-
-We are currently collecting additional letters of support and expressions of interest from public and industry actors. Active contacts include:
-
-- [**Bicimia – Brescia Mobilità**](https://bicimia.bresciamobilita.it/default.aspx) — municipal cycling infrastructure operator, Brescia (Italy)
-
-Support letter templates for municipalities, cycling federations and other entities have been distributed to all consortium members. Partners are requested to collect signed letters **before April 17, 2026**.
+All letters of support and expressions of interest have been collected and included in the submitted proposal. See the full list of endorsing organisations on the **[Supporters]({{ site.baseurl }}/supporters)** page.
 
 ---
-
-<!-- ## Upcoming Funding Opportunities
-
-| Programme | Focus | Deadline |
-|-----------|-------|----------|
-| **UNITA Advanced Grants** | Scaling BE-SAFE to new UNITA universities | **17 April 2026** |
-| Erasmus+ Cooperation Partnerships | Smart City Safety Planners curriculum | March 2026 & March 2027 |
-| EIT Urban Mobility | Municipal V2X / sensor pilot testing | April – June 2026 |
-| Horizon Europe (Cluster 5) | Large-scale integration into EU Mission Cities | Sep – Oct 2026 |
-| EU City Facility / URBACT | Physical infrastructure from Task 4 simulations | Early–Mid 2027 | -->

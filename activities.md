@@ -4,6 +4,17 @@ title: Activities
 subtitle: Project meetings, events and actions
 ---
 
+## AIMAS 2026 — International Conference on Accessibility and Inland Mobility Advancement Strategies
+**April 2026 · Sicily, Italy**
+
+BE-SAFE was represented at the **International Conference Accessibility and Inland Mobility Advancement Strategies (AIMAS 2026)** in Sicily by **Bertha Santos**, who presented the project's research framework and ongoing results to an international audience of transport and mobility experts.
+
+<a href="{{ '/assets/img/meetings/2026-04-aimas-sicily/aimas-01.jpeg' | relative_url }}" target="_blank">
+  <img src="{{ '/assets/img/meetings/2026-04-aimas-sicily/aimas-01.jpeg' | relative_url }}" alt="AIMAS 2026 – BE-SAFE presentation" style="max-width:600px; width:100%; border-radius:4px; margin-bottom:1rem;">
+</a>
+
+---
+
 ## 1st In-Person Meeting — Brașov, Romania
 **March 13–14, 2026 · Universitatea Transilvania din Brașov (UniTBV)**
 
