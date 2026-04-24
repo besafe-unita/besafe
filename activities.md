@@ -4,6 +4,19 @@ title: Activities
 subtitle: Project meetings, events and actions
 ---
 
+## BE-SAFE at the SPARK International Partnership Meeting — UBI, Covilhã
+**April 22, 2026 · University of Beira Interior (UBI), Portugal**
+
+The BE-SAFE project was presented at the **University of Beira Interior (UBI)** during the partners' meeting of the Interreg project **[SPARK](https://www.interregeurope.eu/spark)** (Smart Planning for Agile Urban Mobility Solutions). The presentation highlighted BE-SAFE's approach to enhancing cycling safety and promoting active mobility within smart city frameworks.
+
+The event brought together international experts and decision-makers from **Portugal, Spain, Romania, Croatia, Moldova, Cyprus, Lithuania, and Bulgaria**, representing municipalities, intermunicipal communities, regional development agencies, and technology and innovation hubs. By participating in this forum, BE-SAFE reaffirms its commitment to placing cycling safety at the heart of European smart city mobility policies.
+
+<a href="{{ '/assets/img/meetings/2026-04-22-BE-SAFE_SPARK/BE-SAFE_SPARK.jpeg' | relative_url }}" target="_blank">
+  <img src="{{ '/assets/img/meetings/2026-04-22-BE-SAFE_SPARK/BE-SAFE_SPARK.jpeg' | relative_url }}" alt="BE-SAFE at SPARK Partnership Meeting – UBI" style="max-width:600px; width:100%; border-radius:4px; margin-bottom:1rem;">
+</a>
+
+---
+
 ## AIMAS 2026 — International Conference on Accessibility and Inland Mobility Advancement Strategies
 **April 2026 · Sicily, Italy**
 
