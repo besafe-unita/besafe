@@ -4,6 +4,15 @@ title: Activities
 subtitle: Project meetings, events and actions
 ---
 
+## BE-SAFE Next — Kick-off Meeting
+**July 23, 2026 · Online**
+
+The **BE-SAFE Next** partners met for the project's official kick-off following its selection for funding under the **UNITA Advanced Grants** programme.
+
+The session brought the partners together to connect, introduce the expanded team, and review the project's goals and roadmap. Building on BE-SAFE's achievements, this new phase will focus on turning its results into a real-world, AI-powered and V2X-enabled framework that helps cities anticipate and mitigate cyclist risk.
+
+---
+
 ## BE-SAFE at the SPARK International Partnership Meeting — UBI, Covilhã
 **April 22, 2026 · University of Beira Interior (UBI), Portugal**
 

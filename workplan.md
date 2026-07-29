@@ -4,11 +4,13 @@ title: Work Plan
 subtitle: Next steps, funding calls and consortium expansion
 ---
 
-## UNITA Advanced Grant — BE-SAFE Next
+## UNITA Advanced Grant Awarded — BE-SAFE Next
 
-On **17 April 2026**, the BE-SAFE consortium officially submitted its proposal to the **[UNITA Call for Advanced Grants on Research](https://univ-unita.eu/unita-call-for-advanced-grants-on-research/)**.
+The **BE-SAFE Next** proposal has been selected for funding under the **[UNITA Advanced Grants](https://univ-unita.eu/unita-call-for-advanced-grants-on-research/)** programme.
 
-The proposal — internally referred to as **BE-SAFE Next** — aims to scale the project framework to new partner institutions and municipalities within the UNITA Alliance, building on the results of the first project cycle.
+With the grant secured, the consortium's next move is to launch this new version of the project. BE-SAFE Next will build on the first project's achievements and turn its results into a real-world, AI-powered and V2X-enabled framework that helps cities anticipate and mitigate cyclist risk.
+
+The project officially started with its kick-off meeting on **23 July 2026**. The partners will now begin implementing the new roadmap, scaling the framework to additional institutions and municipalities across the UNITA Alliance.
 
 ---
 

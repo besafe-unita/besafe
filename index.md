@@ -11,6 +11,8 @@ subtitle: Cyclist Safety in Smart Cities — A UNITA Consortium Research Project
 The project brings together four universities and their municipal partners to develop tools, methods, and policy recommendations for improving cyclist safety in smart urban environments — through data-driven risk modelling, sensor-based monitoring, behavioural analysis, and simulation.
 <a href="{{ '/assets/res/Be-safe_project_Overview.pdf' | relative_url }}" target="_blank">Project Outline Download.</a>
 
+**BE-SAFE Next has recently been selected for UNITA Advanced Grants funding. [Read the news and stay tuned for updates.]({{ '/news#be-safe-next-funded' | relative_url }})**
+
 ---
 
 ## Partners
@@ -42,4 +44,3 @@ The project brings together four universities and their municipal partners to de
   </div>
 
 </div>
-
