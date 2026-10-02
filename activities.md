@@ -4,6 +4,52 @@ title: Activities
 subtitle: Project meetings, events and actions
 ---
 
+## UNITA DT Workshop Starting Grant
+**October 2026 · Online**
+
+BE-SAFE's research framework, findings and future developments through **BE-SAFE Next** will be shared with the UNITA Digital Transition community. The workshop marks another opportunity to disseminate the Starting Grant's outcomes and connect them to the Advanced Grant phase.
+
+---
+
+## UNITA Starting Grant Dissemination Event
+**September 2026 · Transilvania University of Brașov, Romania**
+
+BE-SAFE was presented at the UNITA Starting Grant dissemination event at UniTBV. The presentation covered the project's multidisciplinary framework, completed results and the continuation of the research under BE-SAFE Next.
+
+<a href="{{ '/assets/img/meetings/2026-09-unitbv-dissemination/unitbv-dissemination.jpeg' | relative_url }}" target="_blank">
+  <img class="project-figure" src="{{ '/assets/img/meetings/2026-09-unitbv-dissemination/unitbv-dissemination.jpeg' | relative_url }}" alt="BE-SAFE presentation at the UNITA Starting Grant dissemination event in Brașov">
+</a>
+
+---
+
+## European Transport Conference 2026
+**September 2026 · University of Porto, Portugal**
+
+The consortium presented *“BE-SAFE: Initial Developments of a Data-Driven Framework for Cyclist Safety in Smart Cities”* at the **54th European Transport Conference**. The paper consolidates the initial developments and results of the project's accident-analysis, behaviour, sensing/V2X and simulation activities.
+
+<div class="photo-grid">
+  <a href="{{ '/assets/img/meetings/2026-09-etc-porto/etc-2026-01.jpeg' | relative_url }}" target="_blank"><img src="{{ '/assets/img/meetings/2026-09-etc-porto/etc-2026-01.jpeg' | relative_url }}" alt="BE-SAFE participants at ETC 2026"></a>
+  <a href="{{ '/assets/img/meetings/2026-09-etc-porto/etc-2026-02.jpeg' | relative_url }}" target="_blank"><img src="{{ '/assets/img/meetings/2026-09-etc-porto/etc-2026-02.jpeg' | relative_url }}" alt="Presentation of BE-SAFE at ETC 2026"></a>
+</div>
+
+[Download the ETC 2026 paper]({{ '/assets/res/BE-SAFE-ETC-2026-paper.pdf' | relative_url }}){: .button-link }
+
+---
+
+## BE-SAFE Final Meeting
+**September 2026 · University of Beira Interior, Covilhã, Portugal**
+
+The consortium's closing meeting marked the successful completion of the BE-SAFE Starting Grant. Partners reviewed the results across all four technical tasks, discussed the integrated Cyclist Safety Framework and prepared the transition to BE-SAFE Next.
+
+<div class="photo-grid">
+  <a href="{{ '/assets/img/meetings/2026-09-final-covilha/final-meeting-01.jpeg' | relative_url }}" target="_blank"><img src="{{ '/assets/img/meetings/2026-09-final-covilha/final-meeting-01.jpeg' | relative_url }}" alt="BE-SAFE partners at the closing meeting in Covilhã"></a>
+  <a href="{{ '/assets/img/meetings/2026-09-final-covilha/final-meeting-02.jpeg' | relative_url }}" target="_blank"><img src="{{ '/assets/img/meetings/2026-09-final-covilha/final-meeting-02.jpeg' | relative_url }}" alt="Working session at the BE-SAFE closing meeting"></a>
+</div>
+
+[Read the Starting Grant results and outputs]({{ '/results' | relative_url }}){: .button-link }
+
+---
+
 ## BE-SAFE Next — Kick-off Meeting
 **July 23, 2026 · Online**
 

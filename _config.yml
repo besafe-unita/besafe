@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: BE-SAFE
+title: BE-SAFE Next
 
 # Your name to show in the footer
 author: BE-SAFE Consortium
@@ -21,9 +21,12 @@ author: BE-SAFE Consortium
 
 navbar-links:
   Home: "/"
-  Activities: "activities"
-  # Deliverables: "deliverables"
-  Work Plan: "workplan"
+  BE-SAFE Next:
+    - Overview: "be-safe-next"
+    - Work Plan: "workplan"
+  Starting Grant:
+    - Results & Outputs: "results"
+    - Activities: "activities"
   Supporters: "supporters"
   News: "news"
 
@@ -96,7 +99,9 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "besafe-unita.github.io"
+url: "https://besafe-unita.github.io"
+baseurl: "/besafe"
+url-pretty: "besafe-unita.github.io/besafe"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -153,8 +158,8 @@ footer-hover-col: "#ffffff"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/besafe.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -254,7 +259,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -295,4 +300,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
